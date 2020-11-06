@@ -1,1 +1,1 @@
-# RealityTrailmix
+# insightfulwizard.github.io
