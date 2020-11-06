@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Desert of the Granola
 
 You can use the [editor on GitHub](https://github.com/InsightfulWizard/RealityTrailmix/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
