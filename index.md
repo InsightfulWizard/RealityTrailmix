@@ -1,8 +1,6 @@
-## Welcome to the Desert of the Granola
+# Welcome to the Desert of the Granola
 
-You can use the [editor on GitHub](https://github.com/InsightfulWizard/RealityTrailmix/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link](https://www.youtube.com/channel/UCE2TF43b6f17ol4Fw_F5gvg?view_as=subscriber)
 
 ### Markdown
 
