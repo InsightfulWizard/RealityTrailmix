@@ -1,10 +1,11 @@
 # Welcome to the Desert of the Granola
 
-[Link](https://www.youtube.com/channel/UCE2TF43b6f17ol4Fw_F5gvg?view_as=subscriber)
+[Youtube Channel](https://www.youtube.com/channel/UCE2TF43b6f17ol4Fw_F5gvg?view_as=subscriber)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
 
 ```markdown
 Syntax highlighted code block
