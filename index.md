@@ -2,7 +2,7 @@
 
 [Youtube Channel](https://www.youtube.com/channel/UCE2TF43b6f17ol4Fw_F5gvg?view_as=subscriber)
 
-![Image](https://drive.google.com/file/d/1ziAUnBOLV2vMdueDl9TEDV51Fouls2di/view?usp=sharing)
+
 
 
 
