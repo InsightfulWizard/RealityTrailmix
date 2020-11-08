@@ -2,7 +2,7 @@
 
 [Youtube Channel](https://www.youtube.com/channel/UCE2TF43b6f17ol4Fw_F5gvg?view_as=subscriber)
 
-![AG Sketch 2020](/images/AG Sketch 2020.jpg "It me")
+![AG Sketch 2020](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/AG%20Sketch%202020.jpg "It me")
 
 
 
