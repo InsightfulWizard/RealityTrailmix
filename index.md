@@ -8,4 +8,5 @@
 ![Landscape Sketch](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/Landscape%20Sketch.jpg "Round V Cube")
 
 [Youtube Channel](https://www.youtube.com/channel/UCE2TF43b6f17ol4Fw_F5gvg?view_as=subscriber)
+
 [People of a Word](https://realitytrailmix.com/poaw)
