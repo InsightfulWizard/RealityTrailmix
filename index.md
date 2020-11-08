@@ -5,6 +5,6 @@
 ## Digital Painting Adventures
 ![AG Sketch 2020](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/AG%20Sketch%202020.jpg "It me")
 
-![Landscape Sketch](https://github.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Landscape%20Sketch.jpg "Round V Cube")
+![Landscape Sketch](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/Landscape%20Sketch.jpg "Round V Cube")
 
 [People of a Word](gh-pages/People_of_a_Word.md)
