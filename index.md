@@ -1,7 +1,6 @@
 # Welcome to the Desert of the Granola
-
-
-
+#
+#
 ### Digital Painting Adventures
 ![AG Sketch 2020](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/AG%20Sketch%202020.jpg "It me")
 
