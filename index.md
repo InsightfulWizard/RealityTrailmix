@@ -1,4 +1,4 @@
-# Clouds make the sky always different
+# Welcome to the desert of the granola
 # ⠀
 ### Current Projects
 ![Im in](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/Im%20in_08.jpg "beginnings of an animation project")
