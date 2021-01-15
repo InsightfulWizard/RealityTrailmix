@@ -2,7 +2,7 @@
 # |
 # |
 ### Current Projects
-![Im in]https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/Im%20in_08.png "beginnings of an animation project")
+![Im in]https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/Im%20in_08.jpg "beginnings of an animation project")
 
 ### Digital Painting Adventures
 ![Landscape Studies](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/grantas2_LandscapeStudy_final_1.jpg "Terra Firma")
