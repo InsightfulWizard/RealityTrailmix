@@ -20,3 +20,4 @@
 [People of a Word](https://realitytrailmix.com/poaw)
 
 
+<link rel="shortcut icon" type="image/jpg" href="https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/favicon%20(5).ico"/>
