@@ -11,6 +11,8 @@
 ![Im in](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/Im%20in_08.jpg "beginnings of an animation project")
 
 ### Digital Painting Adventures
+![Munathani the Gargantuan](https://github.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Grantas2_%2302_final.jpg "D&D Homebrew")
+
 ![Landscape Studies](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/grantas2_LandscapeStudy_final_1.jpg "Terra Firma")
 
 ![Roller Vigilante Room](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/grantas2_Isometric_11_cropped.jpg "A high RPM force for good")
