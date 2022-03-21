@@ -1,17 +1,17 @@
 # Welcome to the desert of the granola
 # ⠀
 ### Object Studies
-![Drill Render](https://github.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Drill_Render_6%20edit3.jpg "Drill object study")
-![Drill Wireframe](https://github.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Drill_Render_5_edit3.jpg "Drill object study")
+![Drill Render](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Drill_Render_6%20edit3.jpg "Drill object study")
+![Drill Wireframe](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Drill_Render_5_edit3.jpg "Drill object study")
 
-![Alarm Render](https://github.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Day1_AlarmRadio_023_s_rend.jpg "Alarm clock object study")
-![Alarm Wireframe](https://github.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Day1_AlarmRadio_023_wireframe_rend.jpg "Alarm clock object study")
+![Alarm Render](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Day1_AlarmRadio_023_s_rend.jpg "Alarm clock object study")
+![Alarm Wireframe](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Day1_AlarmRadio_023_wireframe_rend.jpg "Alarm clock object study")
 
 
 ![Im in](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/Im%20in_08.jpg "beginnings of an animation project")
 
 ### Digital Painting Adventures
-![Munathani the Gargantuan](https://github.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Grantas2_%2302_final.jpg "D&D Homebrew")
+![Munathani the Gargantuan](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/blob/main/Images/Grantas2_%2302_final.jpg "D&D Homebrew")
 
 ![Landscape Studies](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/grantas2_LandscapeStudy_final_1.jpg "Terra Firma")
 
