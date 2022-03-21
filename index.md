@@ -1,4 +1,6 @@
-# Welcome to the desert of the granola
+# Welcome to Trailmix Reality
+# Reach in and try some metaphysical yogert chip
+# The Works of Andrew Grant - Environmnt Artist
 # ⠀
 ### Object Studies
 ![Drill Render](https://raw.githubusercontent.com/InsightfulWizard/insightfulwizard.github.io/main/Images/Drill_Render_6%20edit3.jpg "Drill object study")
